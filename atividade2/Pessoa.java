@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 public abstract class Pessoa {
+=======
+public abstract class Pessoa implements TomadorEmprestimo{
+>>>>>>> 13b6ead (entrega atividade2)
     private String nome;
     private String email;
 
